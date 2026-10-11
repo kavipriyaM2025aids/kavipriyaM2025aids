@@ -12,7 +12,7 @@ I'm an Artificial Intelligence & Data Science undergraduate passionate about sof
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages:** Python, Java, C
+- **Programming Languages:** Python, Java, C++
 - **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
 - **Backend:** Flask, FastAPI
 - **AI & Data Science:** Artificial Intelligence, Data Analysis, Computer Vision
